@@ -1,4 +1,18 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
+
+# Jupyter
 .ipynb_checkpoints/
-*.csv
+
+# Environment variables
+.env
+
+# Large data files (ignore only inside data folder)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
