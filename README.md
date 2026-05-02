@@ -29,6 +29,7 @@ This project analyzes student performance using statistical techniques to unders
 
 ## 📂 Project Structure
 
+```
 student-performance-analysis
 │
 ├── data/                # Dataset (ignored in GitHub)
@@ -37,6 +38,7 @@ student-performance-analysis
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
